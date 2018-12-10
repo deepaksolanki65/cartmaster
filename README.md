@@ -30,5 +30,7 @@ REFERENCES
 4.	Import the database - shoping_db.sql
 5.	Run the project on the browser (tested on chrome, firefox).
 
+/****************modify*******************************/
+1.   Delete.php file is modify 
 
 
