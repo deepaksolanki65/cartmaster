@@ -5,7 +5,7 @@
 	require("functions.php");
 	
 	echo "<h1>Your Cart</h1>";
-	echo "show your oreder ";
+	
 	showcart();
 	if(isset($_SESSION['SESS_ORDERNUM'])){
 		$sess_ordernum = $_SESSION['SESS_ORDERNUM'];
